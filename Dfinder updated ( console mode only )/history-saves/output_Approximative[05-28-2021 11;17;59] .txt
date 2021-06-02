@@ -1,0 +1,39 @@
+========== Récapitulatif ====================================================================================================
+ [SYSTEM] :  la methode de recherche choisie : Recherche Minimale
+          :  la methode de calcul du score choisie : METH1
+          :  le chemin du répertoire choisi : C:\Users\SAAD\Desktop\Documents\123\46515615
+          :  le/les mot(s) à rechercher : txt
+
+=============================================================================================================================
+[SYSTEM] : Voici les fichiers dont le nom contient au moins un mot de la phrase saisie :
+         : ( les fichiers sont triés selon un score, date de modification  
+         :    la plus récente la taille la plus petite. )
+         : ( Total = 4 )
+
+[Score = 1] : 
+   [file N°1] :    file name : complex data in a Word docx file..txt
+                   last modification date : 11/05/2021 20:39:05
+                   file path : C:\Users\SAAD\Desktop\Documents\123\46515615\complex data in a Word docx file..txt
+                   file size : 0 octets
+
+   [file N°2] :    file name : test1.txt
+                   last modification date : 15/01/1970 07:14:38
+                   file path : C:\Users\SAAD\Desktop\Documents\123\46515615\test1.txt
+                   file size : 68 octets
+
+   [file N°3] :    file name : test2.txt
+                   last modification date : 15/01/1970 07:14:38
+                   file path : C:\Users\SAAD\Desktop\Documents\123\46515615\test2.txt
+                   file size : 718 octets
+
+   [file N°4] :    file name : test3.txt
+                   last modification date : 15/01/1970 07:14:38
+                   file path : C:\Users\SAAD\Desktop\Documents\123\46515615\test3.txt
+                   file size : 2556 octets
+
+=============================================================================================================================
+=============================================================================================================================
+[SYSTEM] : Aucun fichier contient les mots donnés !
+=============================================================================================================================
+[SYSTEM] * Temps d'exécution : 640 Millisecondes.
+[SYSTEM] * fin ! ( le fichier d'historique de recherche output_Approximative[05-28-2021 11;17;59] .txt a été enregistré avec succès )

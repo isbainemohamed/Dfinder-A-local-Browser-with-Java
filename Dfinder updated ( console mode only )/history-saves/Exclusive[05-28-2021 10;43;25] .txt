@@ -1,0 +1,18 @@
+========== Récapitulatif ====================================================================================================
+ [SYSTEM] :  la methode de recherche choisie : Recherche Exclusive
+          :  le chemin du répertoire choisi : C:\Users\SAAD\Desktop\Documents\123
+          :  la phrase à rechercher : uyvdyhf
+=============================================================================================================================
+=============================================================================================================================
+[SYSTEM] : Aucun nom de fichier contient la phrase donnée telle quelle !
+=============================================================================================================================
+
+=============================================================================================================================
+[SYSTEM] : Aucun fichier contient la phrase donnée telle quelle !
+=============================================================================================================================
+[SYSTEM] * Temps d'exécution : 1326 Millisecondes.
+[SYSTEM] * fin ! ( le fichier d'historique de recherche Exclusive[05-28-2021 10;43;25] .txt a été enregistré avec succès )
+C:\Users\SAAD\Desktop\Documents\123
+uyvdyhf
+[]
+{}

@@ -1,0 +1,30 @@
+========== Récapitulatif ====================================================================================================
+ [SYSTEM] :  la methode de recherche choisie : Recherche Approximative
+          :  la methode de calcul du score choisie : METH2
+          :  le chemin du répertoire choisi : C:\Users\SAAD\Desktop\Documents\123
+          :  le/les mot(s) à rechercher : yes 123
+=============================================================================================================================
+=============================================================================================================================
+[SYSTEM] : Aucun nom de fichier contient les mots donnés !
+=============================================================================================================================
+[SYSTEM] : Voici les fichiers qui contiennent les mots donnés :
+         : ( les fichiers sont triés selon un score, date de modification  
+         :    la plus récente la taille la plus petite. )
+         : ( Total = 1 )
+
+         : ( Total = 1 )
+
+[Score = 10] : 
+   [file N°1] :    file name : 123 no.txt
+                   last modification date : 12/05/2021 22:02:43
+                   file path : C:\Users\SAAD\Desktop\Documents\123\461561\123 no.txt
+                   file size : 32 octets
+
+=============================================================================================================================
+=============================================================================================================================
+[SYSTEM] * Temps d'exécution : 1010 Millisecondes.
+[SYSTEM] * fin ! ( le fichier d'historique de recherche output_Approximative[05-28-2021 10;48;31] .txt a été enregistré avec succès )
+C:\Users\SAAD\Desktop\Documents\123
+yes 123
+[]
+{10=[C:\Users\SAAD\Desktop\Documents\123\461561\123 no.txt]}

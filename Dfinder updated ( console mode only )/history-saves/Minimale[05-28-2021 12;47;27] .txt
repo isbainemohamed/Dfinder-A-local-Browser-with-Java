@@ -1,0 +1,70 @@
+========== Récapitulatif ====================================================================================================
+ [SYSTEM] :  la methode de recherche choisie : Recherche Minimale
+          :  la methode de calcul du score choisie : METH1
+          :  le chemin du répertoire choisi : C:\Users\SAAD\Desktop\Documents\123
+          :  le/les mot(s) à rechercher : 123
+
+=============================================================================================================================
+[SYSTEM] : Voici les fichiers dont le nom contient au moins un mot de la phrase saisie :
+         : ( les fichiers sont triés selon un score, date de modification  
+         :    la plus récente la taille la plus petite. )
+         : ( Total = 3 )
+
+[Score = 1] : 
+   [file N°1] :    file name : 123 no.txt
+                   last modification date : 12/05/2021 22:02:43
+                   file path : C:\Users\SAAD\Desktop\Documents\123\461561\123 no.txt
+                   file size : 32 octets
+
+   [file N°2] :    file name : 123.txt
+                   last modification date : 08/05/2021 15:16:03
+                   file path : C:\Users\SAAD\Desktop\Documents\123\123.txt
+                   file size : 0 octets
+
+   [file N°3] :    file name : 123.pdf
+                   last modification date : 06/05/2021 21:58:05
+                   file path : C:\Users\SAAD\Desktop\Documents\123\123.pdf
+                   file size : 194805 octets
+
+=============================================================================================================================
+=============================================================================================================================
+[SYSTEM] : Voici les fichiers qui contiennent les mots donnés :
+         : ( les fichiers sont triés selon un score, date de modification  
+         :    la plus récente la taille la plus petite. )
+         : ( Total = 4 )
+
+[Score = 28] : 
+   [file N°1] :    file name : bhvdndvnd.txt
+                   last modification date : 08/05/2021 23:02:21
+                   file path : C:\Users\SAAD\Desktop\Documents\123\bhvdndvnd.txt
+                   file size : 142 octets
+
+   [file N°2] :    file name : 6541561032165.txt
+                   last modification date : 08/05/2021 23:02:06
+                   file path : C:\Users\SAAD\Desktop\Documents\123\6541561032165.txt
+                   file size : 142 octets
+
+   [file N°3] :    file name : 123456789.txt
+                   last modification date : 08/05/2021 23:01:06
+                   file path : C:\Users\SAAD\Desktop\Documents\123\123456789.txt
+                   file size : 142 octets
+
+[Score = 7] : 
+   [file N°1] :    file name : tetsvtgstu.txt
+                   last modification date : 08/05/2021 17:09:19
+                   file path : C:\Users\SAAD\Desktop\Documents\123\tetsvtgstu.txt
+                   file size : 114 octets
+
+=============================================================================================================================
+=============================================================================================================================
+[SYSTEM] * Temps d'exécution : 1024 Millisecondes.
+[SYSTEM] * fin ! ( le fichier d'historique de recherche Minimale[05-28-2021 12;47;27] .txt a été enregistré avec succès )
+=============================================================================================================================
+
+                                                                                                      ___                      
+                                                                                                    ( / \ /)o          /      
+                                                                                                     /  ///,  _ _   __/ _  _  
+                                                                                                   (/\_///_(_/ / /_(_/_(/_/ (_
+                                                                                                       /)  ISBAINE mohamed                   
+                                                                                                      (/   LABRIJI saad                 
+

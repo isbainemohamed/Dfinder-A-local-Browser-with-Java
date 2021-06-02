@@ -1,0 +1,44 @@
+========== Récapitulatif ====================================================================================================
+ [SYSTEM] :  la methode de recherche choisie : Recherche Minimale
+          :  la methode de calcul du score choisie : METH2
+          :  le chemin du répertoire choisi : C:\Users\SAAD\Desktop\Documents\123\46515615
+          :  le/les mot(s) à rechercher : complex data in a Word docx file
+
+=============================================================================================================================
+[SYSTEM] : Voici les fichiers dont le nom contient au moins un mot de la phrase saisie :
+         : ( les fichiers sont triés selon un score, date de modification  
+         :    la plus récente la taille la plus petite. )
+         : ( Total = 3 )
+
+[Score = 27] : 
+   [file N°1] :    file name : complex data in a Word docx file..txt
+                   last modification date : 11/05/2021 20:39:05
+                   file path : C:\Users\SAAD\Desktop\Documents\123\46515615\complex data in a Word docx file..txt
+                   file size : 0 octets
+
+[Score = 2] : 
+   [file N°1] :    file name : fbhzkjfz.docx
+                   last modification date : 09/05/2021 14:51:24
+                   file path : C:\Users\SAAD\Desktop\Documents\123\46515615\fbhzkjfz.docx
+                   file size : 12642 octets
+
+   [file N°2] :    file name : 13216.docx
+                   last modification date : 09/05/2021 14:50:52
+                   file path : C:\Users\SAAD\Desktop\Documents\123\46515615\13216.docx
+                   file size : 12376 octets
+
+=============================================================================================================================
+=============================================================================================================================
+[SYSTEM] : Aucun fichier contient les mots donnés !
+=============================================================================================================================
+[SYSTEM] * Temps d'exécution : 48 Millisecondes.
+[SYSTEM] * fin ! ( le fichier d'historique de recherche output_Approximative[05-28-2021 11;27;23] .txt a été enregistré avec succès )
+=============================================================================================================================
+
+                                                                                                      ___                      
+                                                                                                    ( / \ /)o          /      
+                                                                                                     /  ///,  _ _   __/ _  _  
+                                                                                                   (/\_///_(_/ / /_(_/_(/_/ (_
+                                                                                                       /)  ISBAINE mohamed                   
+                                                                                                      (/   LABRIJI saad                 
+

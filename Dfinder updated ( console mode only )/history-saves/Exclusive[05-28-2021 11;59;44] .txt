@@ -1,0 +1,64 @@
+========== Récapitulatif ====================================================================================================
+ [SYSTEM] :  la methode de recherche choisie : Recherche Exclusive
+          :  le chemin du répertoire choisi : C:\Users\SAAD\Desktop\Documents\123\461561
+          :  la phrase à rechercher : txt
+=============================================================================================================================
+=============================================================================================================================
+[SYSTEM] : Voici les fichiers dont le nom contient la phrase donnée telle quelle:
+         :  ( Total = 8 )
+
+   [file N°1] :    file name : 123 no.txt
+                   last modification date : 12/05/2021 22:02:43
+                   file path : C:\Users\SAAD\Desktop\Documents\123\461561\123 no.txt
+                   file size : 32 octets
+
+   [file N°2] :    file name : 1234.txt
+                   last modification date : 12/05/2021 22:39:21
+                   file path : C:\Users\SAAD\Desktop\Documents\123\461561\1234.txt
+                   file size : 16 octets
+
+   [file N°3] :    file name : 1564c15cve.txt
+                   last modification date : 13/05/2021 11:59:29
+                   file path : C:\Users\SAAD\Desktop\Documents\123\461561\1564c15cve.txt
+                   file size : 138 octets
+
+   [file N°4] :    file name : 16451.txt
+                   last modification date : 28/05/2021 11:43:58
+                   file path : C:\Users\SAAD\Desktop\Documents\123\461561\16451.txt
+                   file size : 32 octets
+
+   [file N°5] :    file name : mndvk,lvdf.txt
+                   last modification date : 13/05/2021 12:00:01
+                   file path : C:\Users\SAAD\Desktop\Documents\123\461561\mndvk,lvdf.txt
+                   file size : 26 octets
+
+   [file N°6] :    file name : neferfler.txt
+                   last modification date : 13/05/2021 11:59:47
+                   file path : C:\Users\SAAD\Desktop\Documents\123\461561\neferfler.txt
+                   file size : 138 octets
+
+   [file N°7] :    file name : yes no yes.txt
+                   last modification date : 13/05/2021 11:58:59
+                   file path : C:\Users\SAAD\Desktop\Documents\123\461561\yes no yes.txt
+                   file size : 16 octets
+
+   [file N°8] :    file name : ébhckjdn  v.kjdfv46512.txt
+                   last modification date : 15/05/2021 23:03:52
+                   file path : C:\Users\SAAD\Desktop\Documents\123\461561\ébhckjdn  v.kjdfv46512.txt
+                   file size : 0 octets
+
+=============================================================================================================================
+=============================================================================================================================
+[SYSTEM] : Aucun fichier contient la phrase donnée telle quelle !
+=============================================================================================================================
+[SYSTEM] * Temps d'exécution : 849 Millisecondes.
+[SYSTEM] * fin ! ( le fichier d'historique de recherche Exclusive[05-28-2021 11;59;44] .txt a été enregistré avec succès )
+=============================================================================================================================
+
+                                                                                                      ___                      
+                                                                                                    ( / \ /)o          /      
+                                                                                                     /  ///,  _ _   __/ _  _  
+                                                                                                   (/\_///_(_/ / /_(_/_(/_/ (_
+                                                                                                       /)  ISBAINE mohamed                   
+                                                                                                      (/   LABRIJI saad                 
+

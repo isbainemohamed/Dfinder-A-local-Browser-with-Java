@@ -1,0 +1,30 @@
+========== Récapitulatif ====================================================================================================
+ [SYSTEM] :  la methode de recherche choisie : Recherche Approximative
+          :  la methode de calcul du score choisie : METH1
+          :  le chemin du répertoire choisi : C:\Users\SAAD\Desktop\Documents\
+          :  le/les mot(s) à rechercher : bchjnxs bvfhsdcqkjnsb
+=============================================================================================================================
+=============================================================================================================================
+[SYSTEM] : Aucun nom de fichier contient les mots donnés !
+=============================================================================================================================
+[SYSTEM] : Voici les fichiers qui contiennent les mots donnés :
+         : ( les fichiers sont triés selon un score, date de modification  
+         :    la plus récente la taille la plus petite. )
+         : ( Total = 2 )
+
+[Score = 98] : 
+   [file N°1] :    file name : test3.txt
+                   last modification date : 15/01/1970 07:14:38
+                   file path : C:\Users\SAAD\Desktop\Documents\123\46515615\test3.txt
+                   file size : 2556 octets
+
+[Score = 26] : 
+   [file N°1] :    file name : test2.txt
+                   last modification date : 15/01/1970 07:14:38
+                   file path : C:\Users\SAAD\Desktop\Documents\123\46515615\test2.txt
+                   file size : 718 octets
+
+=============================================================================================================================
+=============================================================================================================================
+[SYSTEM] * Temps d'exécution : 36783 Millisecondes.
+[SYSTEM] * fin ! ( le fichier d'historique de recherche output_Approximative[05-28-2021 11;07;00] .txt a été enregistré avec succès )

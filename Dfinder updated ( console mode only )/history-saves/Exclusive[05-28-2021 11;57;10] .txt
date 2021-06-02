@@ -1,0 +1,42 @@
+========== Récapitulatif ====================================================================================================
+ [SYSTEM] :  la methode de recherche choisie : Recherche Exclusive
+          :  le chemin du répertoire choisi : C:\Users\SAAD\Desktop\Documents\123\461561
+          :  la phrase à rechercher : Yes no yes yes no no yes no yes 
+=============================================================================================================================
+=============================================================================================================================
+[SYSTEM] : Aucun nom de fichier contient la phrase donnée telle quelle !
+=============================================================================================================================
+
+[SYSTEM] : Voici les fichiers qui contiennent la phrase donnée telle quelle :
+         : ( les fichiers sont triés par nombre d'occurence de la phrase donnée, 
+         :    date de modification la plus récente la taille la plus petite. )
+         : ( Total = 3 )
+
+[Occurence = 1] : 
+   [file N°1] :    file name : 16451.txt
+                   last modification date : 28/05/2021 11:43:58
+                   file path : C:\Users\SAAD\Desktop\Documents\123\461561\16451.txt
+                   file size : 32 octets
+
+   [file N°2] :    file name : yepp.docx
+                   last modification date : 13/05/2021 22:15:55
+                   file path : C:\Users\SAAD\Desktop\Documents\123\461561\yepp.docx
+                   file size : 12200 octets
+
+   [file N°3] :    file name : yep.pdf
+                   last modification date : 13/05/2021 22:15:52
+                   file path : C:\Users\SAAD\Desktop\Documents\123\461561\yep.pdf
+                   file size : 184732 octets
+
+=============================================================================================================================
+[SYSTEM] * Temps d'exécution : 826 Millisecondes.
+[SYSTEM] * fin ! ( le fichier d'historique de recherche Exclusive[05-28-2021 11;57;10] .txt a été enregistré avec succès )
+=============================================================================================================================
+
+                                                                                                      ___                      
+                                                                                                    ( / \ /)o          /      
+                                                                                                     /  ///,  _ _   __/ _  _  
+                                                                                                   (/\_///_(_/ / /_(_/_(/_/ (_
+                                                                                                       /)  ISBAINE mohamed                   
+                                                                                                      (/   LABRIJI saad                 
+

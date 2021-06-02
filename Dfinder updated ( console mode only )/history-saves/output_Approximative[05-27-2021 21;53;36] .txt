@@ -1,0 +1,168 @@
+========== Récapitulatif ====================================================================================================
+ [SYSTEM] :  la methode de recherche choisie : Recherche Exclusive
+          :  le chemin du répertoire choisi : C:\Users\SAAD\Desktop\Documents
+          :  la phrase à rechercher : txt
+=============================================================================================================================
+=============================================================================================================================
+[SYSTEM] : Voici les fichiers dont le nom contient la phrase donnée telle quelle:
+         :  ( Total = 24 )
+
+   [file N°1] :    file name : 123.txt
+                   last modification date : 08/05/2021 15:16:03
+                   file path : C:\Users\SAAD\Desktop\Documents\123\123.txt
+                   file size : 0 octets
+
+   [file N°2] :    file name : 123123123.txt
+                   last modification date : 08/05/2021 15:16:12
+                   file path : C:\Users\SAAD\Desktop\Documents\123\123123123.txt
+                   file size : 0 octets
+
+   [file N°3] :    file name : 123456.txt
+                   last modification date : 08/05/2021 15:16:19
+                   file path : C:\Users\SAAD\Desktop\Documents\123\123456.txt
+                   file size : 0 octets
+
+   [file N°4] :    file name : 123456789.txt
+                   last modification date : 08/05/2021 23:01:06
+                   file path : C:\Users\SAAD\Desktop\Documents\123\123456789.txt
+                   file size : 142 octets
+
+   [file N°5] :    file name : 16541851.txt
+                   last modification date : 07/05/2021 23:58:49
+                   file path : C:\Users\SAAD\Desktop\Documents\123\16541851.txt
+                   file size : 394 octets
+
+   [file N°6] :    file name : 456789 - Copie.txt
+                   last modification date : 07/05/2021 23:58:32
+                   file path : C:\Users\SAAD\Desktop\Documents\123\456789 - Copie.txt
+                   file size : 790 octets
+
+   [file N°7] :    file name : 456789.txt
+                   last modification date : 07/05/2021 23:58:10
+                   file path : C:\Users\SAAD\Desktop\Documents\123\456789.txt
+                   file size : 394 octets
+
+   [file N°8] :    file name : 123 no.txt
+                   last modification date : 12/05/2021 22:02:43
+                   file path : C:\Users\SAAD\Desktop\Documents\123\461561\123 no.txt
+                   file size : 32 octets
+
+   [file N°9] :    file name : 1234.txt
+                   last modification date : 12/05/2021 22:39:21
+                   file path : C:\Users\SAAD\Desktop\Documents\123\461561\1234.txt
+                   file size : 16 octets
+
+   [file N°10] :    file name : 1564c15cve.txt
+                   last modification date : 13/05/2021 11:59:29
+                   file path : C:\Users\SAAD\Desktop\Documents\123\461561\1564c15cve.txt
+                   file size : 138 octets
+
+   [file N°11] :    file name : mndvk,lvdf.txt
+                   last modification date : 13/05/2021 12:00:01
+                   file path : C:\Users\SAAD\Desktop\Documents\123\461561\mndvk,lvdf.txt
+                   file size : 26 octets
+
+   [file N°12] :    file name : neferfler.txt
+                   last modification date : 13/05/2021 11:59:47
+                   file path : C:\Users\SAAD\Desktop\Documents\123\461561\neferfler.txt
+                   file size : 138 octets
+
+   [file N°13] :    file name : yes no yes.txt
+                   last modification date : 13/05/2021 11:58:59
+                   file path : C:\Users\SAAD\Desktop\Documents\123\461561\yes no yes.txt
+                   file size : 16 octets
+
+   [file N°14] :    file name : ébhckjdn  v.kjdfv46512.txt
+                   last modification date : 15/05/2021 23:03:52
+                   file path : C:\Users\SAAD\Desktop\Documents\123\461561\ébhckjdn  v.kjdfv46512.txt
+                   file size : 0 octets
+
+   [file N°15] :    file name : complex data in a Word docx file..txt
+                   last modification date : 11/05/2021 20:39:05
+                   file path : C:\Users\SAAD\Desktop\Documents\123\46515615\complex data in a Word docx file..txt
+                   file size : 0 octets
+
+   [file N°16] :    file name : test1.txt
+                   last modification date : 15/01/1970 07:14:38
+                   file path : C:\Users\SAAD\Desktop\Documents\123\46515615\test1.txt
+                   file size : 68 octets
+
+   [file N°17] :    file name : test2.txt
+                   last modification date : 15/01/1970 07:14:38
+                   file path : C:\Users\SAAD\Desktop\Documents\123\46515615\test2.txt
+                   file size : 718 octets
+
+   [file N°18] :    file name : test3.txt
+                   last modification date : 15/01/1970 07:14:38
+                   file path : C:\Users\SAAD\Desktop\Documents\123\46515615\test3.txt
+                   file size : 2556 octets
+
+   [file N°19] :    file name : 6541561032165.txt
+                   last modification date : 08/05/2021 23:02:06
+                   file path : C:\Users\SAAD\Desktop\Documents\123\6541561032165.txt
+                   file size : 142 octets
+
+   [file N°20] :    file name : bhvdndvnd.txt
+                   last modification date : 08/05/2021 23:02:21
+                   file path : C:\Users\SAAD\Desktop\Documents\123\bhvdndvnd.txt
+                   file size : 142 octets
+
+   [file N°21] :    file name : reeMap to store values of HashM.txt
+                   last modification date : 08/05/2021 12:49:15
+                   file path : C:\Users\SAAD\Desktop\Documents\123\reeMap to store values of HashM.txt
+                   file size : 0 octets
+
+   [file N°22] :    file name : test - Copie.txt
+                   last modification date : 06/05/2021 21:54:31
+                   file path : C:\Users\SAAD\Desktop\Documents\123\test - Copie.txt
+                   file size : 269 octets
+
+   [file N°23] :    file name : test occ.txt
+                   last modification date : 07/05/2021 23:57:14
+                   file path : C:\Users\SAAD\Desktop\Documents\123\test occ.txt
+                   file size : 196 octets
+
+   [file N°24] :    file name : tetsvtgstu.txt
+                   last modification date : 08/05/2021 17:09:19
+                   file path : C:\Users\SAAD\Desktop\Documents\123\tetsvtgstu.txt
+                   file size : 114 octets
+
+=============================================================================================================================
+[SYSTEM] : Voici les fichiers qui contiennent la phrase donnée telle quelle :
+         : ( les fichiers sont triés par nombre d'occurence de la phrase donnée, 
+         :    date de modification la plus récente la taille la plus petite. )
+         : ( Total = 5 )
+
+[Occurence = 79] : 
+   [file N°1] :    file name : JavaNotesForProfessionals.pdf
+                   last modification date : 06/05/2021 23:26:20
+                   file path : C:\Users\SAAD\Desktop\Documents\JavaNotesForProfessionals.pdf
+                   file size : 7386481 octets
+
+[Occurence = 9] : 
+   [file N°1] :    file name : Rapport_de_lapplication_Quiz_Generator.pdf
+                   last modification date : 24/05/2021 12:41:32
+                   file path : C:\Users\SAAD\Desktop\Documents\Rapport_de_lapplication_Quiz_Generator.pdf
+                   file size : 218458 octets
+
+[Occurence = 5] : 
+   [file N°1] :    file name : scipy-ref.pdf
+                   last modification date : 01/05/2021 00:43:03
+                   file path : C:\Users\SAAD\Desktop\Documents\scipy-ref.pdf
+                   file size : 14748179 octets
+
+[Occurence = 4] : 
+   [file N°1] :    file name : test.pdf
+                   last modification date : 23/05/2021 01:01:42
+                   file path : C:\Users\SAAD\Desktop\Documents\test.pdf
+                   file size : 280899 octets
+
+[Occurence = 2] : 
+   [file N°1] :    file name : 123.pdf
+                   last modification date : 26/05/2021 19:01:34
+                   file path : C:\Users\SAAD\Desktop\Documents\123.pdf
+                   file size : 631436 octets
+
+=============================================================================================================================
+[SYSTEM] * Temps d'exécution : 33458 Millisecondes.
+[SYSTEM] * fin ! ( le fichier d'historique de recherche output_Approximative[05-27-2021 21;53;36] .txt a été enregistré avec succès )

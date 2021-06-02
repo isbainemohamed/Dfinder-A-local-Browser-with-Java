@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import de.jensd.fx.glyphs.fontawesome.FontAwesomeIcon?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane stylesheets="@Style.css" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity"
+            minWidth="-Infinity" prefHeight="600.0" prefWidth="852.0" xmlns="http://javafx.com/javafx/16"
+            xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+    <VBox prefHeight="600.0" prefWidth="235.0" style="-fx-background-color: #212B35;">
+        <Pane prefHeight="119.0" prefWidth="235.0">
+            <FontAwesomeIcon fill="WHITE" iconName="SEARCH" layoutX="42.0" layoutY="61.0" size="25"
+                             text=" Dfinder" wrappingWidth="163.0"/>
+        </Pane>
+        <Button alignment="BASELINE_LEFT" mnemonicParsing="false" onAction="#switchToHome" prefHeight="68.0"
+                prefWidth="236.0" style="-fx-background-color: #212B35;" styleClass="sidebarItem" text="Home"
+                textFill="#e4e2e2">
+            <graphic>
+                <FontAwesomeIcon fill="#f2eeee" iconName="HOME" selectionEnd="0" selectionFill="#f5f3f3"/>
+            </graphic>
+            <opaqueInsets>
+                <Insets/>
+            </opaqueInsets>
+            <padding>
+                <Insets left="50.0"/>
+            </padding>
+            <font>
+                <Font size="19.0"/>
+            </font>
+        </Button>
+        <Button alignment="BASELINE_LEFT" mnemonicParsing="false" onAction="#switchToSettings" prefHeight="68.0"
+                prefWidth="236.0" style="-fx-background-color: #212B35;" styleClass="sidebarItem" text="Settings"
+                textFill="#e4e2e2">
+            <graphic>
+                <FontAwesomeIcon fill="WHITE" iconName="GEAR"/>
+            </graphic>
+            <opaqueInsets>
+                <Insets/>
+            </opaqueInsets>
+            <padding>
+                <Insets left="50.0"/>
+            </padding>
+            <font>
+                <Font size="19.0"/>
+            </font>
+        </Button>
+        <Button alignment="BASELINE_LEFT" mnemonicParsing="false" onAction="#switchToAbout" prefHeight="68.0"
+                prefWidth="236.0" style="-fx-background-color: #212B35;" styleClass="sidebarItem" text="About"
+                textFill="#e4e2e2">
+            <graphic>
+                <FontAwesomeIcon fill="WHITE" iconName="INFO" wrappingWidth="15.785714149475098"/>
+            </graphic>
+            <opaqueInsets>
+                <Insets/>
+            </opaqueInsets>
+            <padding>
+                <Insets left="50.0"/>
+            </padding>
+            <font>
+                <Font size="19.0"/>
+            </font>
+        </Button>
+    </VBox>
+    <Pane layoutX="282.0" prefHeight="198.0" prefWidth="562.0">
+        <children>
+            <TextField fx:id="userInputField" layoutX="11.0" layoutY="35.0" prefHeight="28.0" prefWidth="428.0"
+                       promptText="Type your search here!">
+                <font>
+                    <Font name="Calibri" size="20.0"/>
+                </font>
+            </TextField>
+            <Button layoutX="446.0" layoutY="33.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="42.0"
+                    style="-fx-background-color: #9BADBA;">
+                <graphic>
+                    <FontAwesomeIcon fill="#4a4343" glyphStyleClass="" iconName="SEARCH" size="30" text=""
+                                     wrappingWidth="29.157195806503296"/>
+                </graphic>
+            </Button>
+            <TextField layoutX="84.0" layoutY="86.0" prefHeight="25.0" prefWidth="261.0"
+                       promptText="Seceltionnez le dossier"
+                       style="-fx-border-color: #212B35FF; -fx-border-width: 1.5;"/>
+            <Button layoutX="356.0" layoutY="86.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="78.0"
+                    style="-fx-border-color: #212B35FF; -fx-border-width: 1.5; -fx-background-color: #FFFFFF;"
+                    text="Browse">
+                <graphic>
+                    <FontAwesomeIcon iconName="FOLDER"/>
+                </graphic>
+            </Button>
+            <ComboBox layoutX="84.0" layoutY="124.0" prefHeight="25.0" prefWidth="261.0"
+                      promptText="Selectionnez la méthode de recherche"
+                      style="-fx-border-color: #212B35; -fx-background-color: #FFFFFF; -fx-border-width: 1.5;"
+                      visibleRowCount="3"/>
+        <CheckBox layoutX="359.0" layoutY="129.0" mnemonicParsing="false" text="avec ordre"/>
+        </children>
+    </Pane>
+    <TableView layoutX="235.0" layoutY="195.0" prefHeight="350.0" prefWidth="618.0">
+      <columns>
+          <TableColumn prefWidth="265.5999755859375" style="-fx-background-color: #9BADBAFF;" text="File name">
+          </TableColumn>
+          <TableColumn prefWidth="169.60000610351562" style="-fx-background-color: #9BADBAFF;"
+                       text="Last modified date"/>
+          <TableColumn prefWidth="86.4000244140625" style="-fx-background-color: #9BADBAFF;" text="Size"/>
+          <TableColumn prefWidth="91.2000732421875" style="-fx-background-color: #9BADBAFF;" text="Type"/>
+      </columns>
+        <opaqueInsets>
+          <Insets/>
+        </opaqueInsets>
+    </TableView>
+</AnchorPane>

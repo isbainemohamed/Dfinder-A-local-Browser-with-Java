@@ -1,0 +1,17 @@
+========== Récapitulatif ====================================================================================================
+ [SYSTEM] :  la methode de recherche choisie : Recherche Approximative
+          :  la methode de calcul du score choisie : METH1
+          :  le chemin du répertoire choisi : C:\Users\SAAD\Desktop\Documents\123
+          :  le/les mot(s) à rechercher : txt
+=============================================================================================================================
+=============================================================================================================================
+[SYSTEM] : Aucun nom de fichier contient les mots donnés !
+=============================================================================================================================
+[SYSTEM] : Aucun fichier contient les mots donnés !
+=============================================================================================================================
+[SYSTEM] * Temps d'exécution : 1021 Millisecondes.
+[SYSTEM] * fin ! ( le fichier d'historique de recherche output_Approximative[05-28-2021 10;54;03] .txt a été enregistré avec succès )
+C:\Users\SAAD\Desktop\Documents\123
+txt
+[]
+{}

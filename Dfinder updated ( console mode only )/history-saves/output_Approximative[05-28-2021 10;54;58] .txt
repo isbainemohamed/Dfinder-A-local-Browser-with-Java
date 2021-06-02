@@ -1,0 +1,60 @@
+========== Récapitulatif ====================================================================================================
+ [SYSTEM] :  la methode de recherche choisie : Recherche Approximative
+          :  la methode de calcul du score choisie : METH1
+          :  le chemin du répertoire choisi : C:\Users\SAAD\Desktop\Documents
+          :  le/les mot(s) à rechercher : pdf
+=============================================================================================================================
+=============================================================================================================================
+[SYSTEM] : Voici les fichiers dont le nom contient les mots donnés ( ordre non pris en considération )
+         :  ( Total = 1 )
+
+   [file N°1] :    file name : Base_de_donnees.pdf.pdf
+                   last modification date : 09/05/2021 17:02:53
+                   file path : C:\Users\SAAD\Desktop\Documents\Base_de_donnees.pdf.pdf
+                   file size : 833660 octets
+
+=============================================================================================================================
+[SYSTEM] : Voici les fichiers qui contiennent les mots donnés :
+         : ( les fichiers sont triés selon un score, date de modification  
+         :    la plus récente la taille la plus petite. )
+         : ( Total = 5 )
+
+         : ( Total = 5 )
+
+[Score = 122] : 
+   [file N°1] :    file name : scipy-ref.pdf
+                   last modification date : 01/05/2021 00:43:03
+                   file path : C:\Users\SAAD\Desktop\Documents\scipy-ref.pdf
+                   file size : 14748179 octets
+
+[Score = 21] : 
+   [file N°1] :    file name : Docx4j_GettingStarted.pdf
+                   last modification date : 08/05/2021 19:06:42
+                   file path : C:\Users\SAAD\Desktop\Documents\Docx4j_GettingStarted.pdf
+                   file size : 898306 octets
+
+[Score = 3] : 
+   [file N°1] :    file name : JavaNotesForProfessionals.pdf
+                   last modification date : 06/05/2021 23:26:20
+                   file path : C:\Users\SAAD\Desktop\Documents\JavaNotesForProfessionals.pdf
+                   file size : 7386481 octets
+
+[Score = 1] : 
+   [file N°1] :    file name : 123.pdf
+                   last modification date : 26/05/2021 19:01:34
+                   file path : C:\Users\SAAD\Desktop\Documents\123.pdf
+                   file size : 631436 octets
+
+   [file N°2] :    file name : intronumpy.pdf
+                   last modification date : 01/05/2021 00:42:50
+                   file path : C:\Users\SAAD\Desktop\Documents\intronumpy.pdf
+                   file size : 449086 octets
+
+=============================================================================================================================
+=============================================================================================================================
+[SYSTEM] * Temps d'exécution : 23995 Millisecondes.
+[SYSTEM] * fin ! ( le fichier d'historique de recherche output_Approximative[05-28-2021 10;54;58] .txt a été enregistré avec succès )
+C:\Users\SAAD\Desktop\Documents
+pdf
+[C:\Users\SAAD\Desktop\Documents\Base_de_donnees.pdf.pdf]
+{1=[C:\Users\SAAD\Desktop\Documents\123.pdf, C:\Users\SAAD\Desktop\Documents\intronumpy.pdf], 3=[C:\Users\SAAD\Desktop\Documents\JavaNotesForProfessionals.pdf], 21=[C:\Users\SAAD\Desktop\Documents\Docx4j_GettingStarted.pdf], 122=[C:\Users\SAAD\Desktop\Documents\scipy-ref.pdf]}
